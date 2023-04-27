@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.2b37d361.css",
+    "main.js": "/react-gh-pages/static/js/main.07d6c43f.js",
+    "static/media/RobotoFlex-VariableFont_GRAD,XTRA,YOPQ,YTAS,YTDE,YTFI,YTLC,YTUC,opsz,slnt,wdth,wght.ttf": "/react-gh-pages/static/media/RobotoFlex-VariableFont_GRAD,XTRA,YOPQ,YTAS,YTDE,YTFI,YTLC,YTUC,opsz,slnt,wdth,wght.955a45710a05f0a8ca4f.ttf",
+    "static/media/Raleway-VariableFont_wght.ttf": "/react-gh-pages/static/media/Raleway-VariableFont_wght.238c232d5e08ec0c1c74.ttf",
+    "static/media/Montserrat-VariableFont_wght.ttf": "/react-gh-pages/static/media/Montserrat-VariableFont_wght.c28a96c369871653b853.ttf",
+    "index.html": "/react-gh-pages/index.html",
+    "main.2b37d361.css.map": "/react-gh-pages/static/css/main.2b37d361.css.map",
+    "main.07d6c43f.js.map": "/react-gh-pages/static/js/main.07d6c43f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b37d361.css",
+    "static/js/main.07d6c43f.js"
+  ]
+}
