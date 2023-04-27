@@ -26,7 +26,10 @@ function App() {
                         I'm passionate about creating engaging solutions that delight users and drive 
                         business results. My skills include data engineering, backend development,
                         developing machine learning systems, parallel computing, data pipelining, distributed processing,
-                        cloud computing, and ML DevOPs.
+                        cloud computing, and ML DevOPs. 
+                        <br/>I have worked on a diverse range of projects aimed at solving
+                        various problems. I have enjoyed tackling these challenging problems and am always looking for new
+                        opportunities to expand and improve my skill set and contribute to impactful projects
                     </p>
                     <div className="social-buttons">
                         <a href="https://www.linkedin.com/in/aman-nagarkar" target="_blank" rel="noopener noreferrer"><i className="fab fa-linkedin"></i></a>
