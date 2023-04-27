@@ -5,6 +5,7 @@ function App() {
   return (
     <div className="App">
       <div className="section-nav">
+
             <ul>
               <li className="active"><a href="#About">About</a></li>
               <li><a href="#Timeline">Timeline</a></li>
