@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.e907273b.css",
-    "main.js": "/static/js/main.07d6c43f.js",
-    "static/media/RobotoFlex-VariableFont_GRAD,XTRA,YOPQ,YTAS,YTDE,YTFI,YTLC,YTUC,opsz,slnt,wdth,wght.ttf": "/static/media/RobotoFlex-VariableFont_GRAD,XTRA,YOPQ,YTAS,YTDE,YTFI,YTLC,YTUC,opsz,slnt,wdth,wght.955a45710a05f0a8ca4f.ttf",
-    "static/media/Raleway-VariableFont_wght.ttf": "/static/media/Raleway-VariableFont_wght.238c232d5e08ec0c1c74.ttf",
-    "static/media/Montserrat-VariableFont_wght.ttf": "/static/media/Montserrat-VariableFont_wght.c28a96c369871653b853.ttf",
-    "index.html": "/index.html",
-    "main.e907273b.css.map": "/static/css/main.e907273b.css.map",
-    "main.07d6c43f.js.map": "/static/js/main.07d6c43f.js.map"
+    "main.css": "/amannagarkar.github.io/static/css/main.eb160e05.css",
+    "main.js": "/amannagarkar.github.io/static/js/main.07d6c43f.js",
+    "static/media/RobotoFlex-VariableFont_GRAD,XTRA,YOPQ,YTAS,YTDE,YTFI,YTLC,YTUC,opsz,slnt,wdth,wght.ttf": "/amannagarkar.github.io/static/media/RobotoFlex-VariableFont_GRAD,XTRA,YOPQ,YTAS,YTDE,YTFI,YTLC,YTUC,opsz,slnt,wdth,wght.955a45710a05f0a8ca4f.ttf",
+    "static/media/Raleway-VariableFont_wght.ttf": "/amannagarkar.github.io/static/media/Raleway-VariableFont_wght.238c232d5e08ec0c1c74.ttf",
+    "static/media/Montserrat-VariableFont_wght.ttf": "/amannagarkar.github.io/static/media/Montserrat-VariableFont_wght.c28a96c369871653b853.ttf",
+    "index.html": "/amannagarkar.github.io/index.html",
+    "main.eb160e05.css.map": "/amannagarkar.github.io/static/css/main.eb160e05.css.map",
+    "main.07d6c43f.js.map": "/amannagarkar.github.io/static/js/main.07d6c43f.js.map"
   },
   "entrypoints": [
-    "static/css/main.e907273b.css",
+    "static/css/main.eb160e05.css",
     "static/js/main.07d6c43f.js"
   ]
 }
