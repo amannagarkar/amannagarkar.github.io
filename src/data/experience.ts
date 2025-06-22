@@ -35,6 +35,6 @@ export const experienceData: Experience[] = [
       description:
         "Built recommender systems improving AOV by 20%; led churn prediction (82% precision); optimized Spark+Kafka pipelines for 550GB data; containerized services with Docker + K8s.",
       // manager: "N/A",
-      // companyUrl: "https://vintmedia.com"
+      // companyUrl: "https://vintmedia.in"
     }
 ];
