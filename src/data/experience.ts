@@ -9,7 +9,36 @@ export interface Experience {
 }
 
 export const experienceData: Experience[] = [
-
+    {
+      date: "Jan 2025 – Present",
+      title: "Researcher",
+      company: "SCU - IOT Research Lab",
+      description:
+        "Conducted literature review and replication of networking research papers on XDP and \
+        Flow pattern analysis, validating and extending experimental WiFi 7 testbed performance \
+        through method implementation and comparative analysis.",
+      // manager: "N/A",
+      // companyUrl: "https://www.scu.edu/frugalhub"
+    },{
+      date: "Mar 2025 – Present",
+      title: "Teaching Assistant",
+      company: "Santa Clara University",
+      description:
+        "TA for CSEN 11L (Advanced Programming), 79L (OOP), 146L (Computer Networks), and 266 (AI), leading lab \
+        sessions, grading assignments, and holding weekly office hours.",
+      // manager: "N/A",
+      // companyUrl: "https://www.scu.edu/frugalhub"
+    },
+    {
+      date: "Aug 2024 – Dec 2024",
+      title: "Software Engineer",
+      company: "Teksolve IT",
+      description:
+        "implemented a scalable ETL pipeline for a stealth-mode startup client, integrating multiple data sources into a \
+        Snowflake data warehouse for downstream analytics.",
+      // manager: "N/A",
+      // companyUrl: "https://www.scu.edu/frugalhub"
+    },
     {
       date: "Jul 2023 – Aug 2024",
       title: "Software Engineer",

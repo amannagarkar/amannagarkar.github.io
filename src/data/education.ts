@@ -13,7 +13,7 @@ export const educationData: Education[] = [
     year: "2024—Present",
     institution: "Santa Clara University",
     degree: "Ph.D. in Computer Science",
-    advisor: "Prof. Behnam Dezfouli",
+    advisor: "Affiliated with the SCU IOT Research Lab. Advisor - Dr. Behnam Dezfouli",
   },{
     year: "2021—2023",
     institution: "Santa Clara University",
