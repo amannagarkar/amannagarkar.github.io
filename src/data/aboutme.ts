@@ -26,7 +26,7 @@ export const aboutMe: AboutMe = {
     "I'm a Second-year PhD candidate working at the intersection of networks and machine learning. My research focuses on a intersection of hardware, software and networking. I am particularly interested in the design and implementation of networked systems that leverage machine learning to improve performance, reliability, and security. My work involves developing novel algorithms and architectures that can adapt to dynamic network conditions and optimize resource utilizationf.",
   email: "anagarkar [at] scu [dot] edu",
   imageUrl:
-    "src/app/headshot.jpeg",
+    "https://raw.githubusercontent.com/amannagarkar/amannagarkar.github.io/refs/heads/main/src/app/headshot.jpeg",
   // googleScholarUrl: "",
   githubUsername: "amannagarkar",
   linkedinUsername: "aman-nagarkar",
